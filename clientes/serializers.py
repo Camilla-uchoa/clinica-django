@@ -1,0 +1,6 @@
+from rest_framework import serializers
+from .models import Cliente
+class ClienteSerializer(serializers.Modelserializer):
+    class Meta:
+        model = Cliente
+        fields = ['idcliente', 'nome', 'email']

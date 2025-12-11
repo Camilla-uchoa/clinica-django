@@ -1,1 +1,1 @@
-# clinica-django
+# Clinica-Django
