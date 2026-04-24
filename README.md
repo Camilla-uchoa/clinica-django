@@ -28,7 +28,7 @@ A proposta do projeto é centralizar informações clínicas em um sistema segur
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/Clinica-Django
+git clone https://github.com/camilla-uchoa/Clinica-Django
 
 # Acesse a pasta
 cd Clinica-Django
